@@ -1,6 +1,6 @@
 # yash-double-pendulum
 
-This repo is a one-off repo for [apjanke](https://apjanke.net) and Yash to collaborate on a homework assignment on.
+This repo is a one-off repo for [apjanke](https://apjanke.net) and Yash to collaborate.
 
 The code in here is not suitable for re-use and is not a software library or "real" project. Don't use it for anything. :)
 
