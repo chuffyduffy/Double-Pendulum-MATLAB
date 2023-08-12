@@ -1,4 +1,4 @@
-# yash-double-pendulum
+# double-pendulum
 
 This repo is a one-off repo for [apjanke](https://apjanke.net) and Yash to collaborate.
 
@@ -12,7 +12,7 @@ The main script to run is `my_double_pendulum.m`. Run `my_double_pendulum` at th
 
 ## Repo Structure
 
-* [`opp/`](https://www.youtube.com/watch?v=idx3GSL2KWs) - Contains the original third-party software incorporated into this project.
+* `opp/`- Contains the original third-party software incorporated into this project.
 * `src/` - The main source code directory. This is what should go on your Matlab path (using the `addpath()` function`).
 
 ## License
@@ -24,7 +24,5 @@ Original Double Pendulum library from Matlab File Exchange: <https://www.mathwor
 ## Authors
 
 apjanke is [Andrew Janke](https://apjanke.net).
-
-Yash is some student Andrew met on the Matlab Discord.
-
+Yash is a high school student working on a project.
 Do not contact any of the authors with questions about this software; it is totally unsupported and we don't care.
